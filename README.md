@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Aryan Nimavat
 
 # 💫 About Me:
 👨‍💻 Final-year Computer Engineering student<br>🤖 Building AI/ML projects with Python, LLMs, and Deep Learning<br>🧠 Interested in Generative AI, NLP, and Computer Vision<br>🔗 Currently working on agentic workflows, RAG pipelines & real-world AI assistants<br>📍 India | Open to internships & collaborations
